@@ -30,10 +30,14 @@ Before you begin, ensure you have met the following requirements:
 ## Installation
 
 1. Clone the repository:
+   ```
    git clone https://github.com/younameit01/task-tracking.git
 2. Navigate to the project directory:
+    ```
     cd your-project
 3. Install Project dependencies using npm:
+    ```
     npm install
 4. Start application
+    ```
     npm start
